@@ -11,4 +11,4 @@ python3 -m mcts_llm.mcts
 ## Visualization
 Running above command will generate a visualization of the tree in the `visualization` folder.
 
-![full](./visualization/iteration_31.png)
+![full](./misc/iteration_31.png)
