@@ -1,0 +1,25 @@
+# Python 바이트 코드 파일
+__pycache__/
+*.py[cod]
+
+# 가상 환경
+venv/
+env/
+.env
+
+# IDE 설정 파일
+.vscode/
+.idea/
+
+# 로그 파일
+*.log
+
+# 시스템 파일
+.DS_Store
+
+# 시각화 결과물
+visualization/
+
+# 기타 임시 파일
+*.tmp
+
